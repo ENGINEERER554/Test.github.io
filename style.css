@@ -1,3 +1,10 @@
 html {
   background-color: lightgrey;
 }
+
+h1 {
+  color: red;
+  font-family: cursive;
+  stroke-color: black;
+  margin: auto;
+}
